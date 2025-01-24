@@ -1,0 +1,4 @@
+1. The total chance of getting infected is calculated using the formula,
+	Total chance = Chance by age + Chance by Family - Reduce chance
+2. A person is found infected by comparing a generated random number with the total chance of getting infected.
+3. The maximum number of contacted people by a person is 20.
